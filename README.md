@@ -1,5 +1,8 @@
 # Proyecto Kronos
-Sistema de información de inventarios.
+   
+
+![enter image description here](https://lh3.googleusercontent.com/XS1L5lEHeI-4PeCUM6qFI_XZ4ObOnSN5wSQVgN_OL3hDVPn0kFxrGZ4F3DivdIFb1FsJrHNPc8U)
+### Sistema de información de inventarios.
 
 
 # Objetivos:
