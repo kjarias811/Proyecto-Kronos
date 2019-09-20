@@ -1,1 +1,1 @@
-# Proyecto-Kronos
+# Proyecto Sistema de Inventarios Kronos.
